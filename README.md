@@ -46,7 +46,9 @@ file.txt -> file.666.txt
 
 # 安装 Python 并克隆仓库
 pkg install python -y
+
 git clone https://github.com/stop666two/SPRTA.git
+
 cd SPRTA
 # 运行工具
 python3 sprta.py
@@ -55,8 +57,11 @@ python3 sprta.py
 
 # 确保 Python 3 已安装
 git clone https://github.com/stop666two/SPRTA.git
+
 cd SPRTA
+
 chmod +x sprta.py
+
 ./sprta.py
 
 
