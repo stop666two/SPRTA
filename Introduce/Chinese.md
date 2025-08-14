@@ -1,6 +1,8 @@
 # 🚀 SPRTA - Stop666 Python Rename Tool for Android  
 **文件重命名神器 | Android 终端批量处理利器 | 开源地址：[GitHub](https://github.com/stop666two/SPRTA/tree/f7fee9a7eca66fc10f6c9fe2ceda3997be59690b)**  
 
+**Languages**: [🇺🇸 English](README.md) | [🇨🇳 简体中文](https://github.com/stop666two/SPRTA/blob/332a82837d57791498e611b9db2e1dd1c9940c2e/Introduce/Chinese.md)| [🇷🇺 Русский](https://github.com/stop666two/SPRTA/blob/332a82837d57791498e611b9db2e1dd1c9940c2e/Introduce/Русский.md)
+
 ---
 
 ## 🔥 **核心亮点**  
