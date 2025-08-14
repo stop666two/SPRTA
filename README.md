@@ -1,7 +1,7 @@
 # 🚀 SPRTA - Stop666 Python Rename Tool for Android  
 **File Renaming Powerhouse | Android Terminal Batch Processing Tool | Source: [GitHub](https://github.com/stop666two/SPRTA/tree/f7fee9a7eca66fc10f6c9fe2ceda3997be59690b)**  
 
-**Languages**: [🇺🇸 English](README.md) | [🇨🇳 简体中文](https://github.com/stop666two/SPRTA/blob/332a82837d57791498e611b9db2e1dd1c9940c2e/Introduce/Chinese.md)
+**Languages**: [🇺🇸 English](README.md) | [🇨🇳 简体中文](https://github.com/stop666two/SPRTA/blob/332a82837d57791498e611b9db2e1dd1c9940c2e/Introduce/Chinese.md)| [🇷🇺 Русский](https://github.com/stop666two/SPRTA/blob/332a82837d57791498e611b9db2e1dd1c9940c2e/Introduce/Русский.md)
 
 ---
 
