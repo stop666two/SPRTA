@@ -53,21 +53,21 @@ pkg install python -y
 
 git clone https://github.com/stop666two/SPRTA.git
 
-cd SPRTA
+cd SPRA/procedure/English
 
 # Run the tool
-python3 sprta.py
+python3 sprta-English.py
 
 🖥️ Universal Linux/macOS
 
 # Ensure Python 3 is installed
 git clone https://github.com/stop666two/SPRTA.git
 
-cd SPRTA
+cd SPRTA/procedure/English
 
-chmod +x sprta.py
+chmod +x sprta-English.py
 
-./sprta.py
+./sprta-English.py
 
  
 
