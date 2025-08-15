@@ -51,20 +51,20 @@ pkg install python -y
 
 git clone https://github.com/stop666two/SPRTA.git
 
-cd SPRTA
+cd SPRTA/procedure/Chinese
 # 运行工具
-python3 sprta.py
+python3 sprta-Chinese.py
 
 🖥️ 通用 Linux/macOS
 
 # 确保 Python 3 已安装
 git clone https://github.com/stop666two/SPRTA.git
 
-cd SPRTA
+cd SPRTA/procedure/Chinese
 
-chmod +x sprta.py
+chmod +x sprta-Chinese.py
 
-./sprta.py
+./sprta-Chinese.py
 
 
 ## 📎 **许可证**
