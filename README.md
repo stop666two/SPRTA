@@ -62,6 +62,7 @@ python3 sprta.py
 
 # Ensure Python 3 is installed
 git clone https://github.com/stop666two/SPRTA.git
+
 cd SPRTA
 
 chmod +x sprta.py
